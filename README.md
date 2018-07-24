@@ -1,2 +1,2 @@
 # fire_backend
-Colourful admin system
+admin system，like the fire
